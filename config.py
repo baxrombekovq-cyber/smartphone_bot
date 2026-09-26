@@ -1,0 +1,16 @@
+BOT_TOKEN = "8969285112:AAGSN3WhWTIqriK4WcwCdZ_7BTu_G8smvyw"
+
+CHANNEL_ID = -1003944445195
+CHANNEL_USERNAME = "@safdfgsdvf"
+
+
+
+ADMIN_ID = 6942939928
+
+
+# PostgreSQL
+DB_HOST = "localhost"
+DB_PORT = 5432
+DB_NAME = "phone_shop"
+DB_USER = "postgres"
+DB_PASSWORD = "1234"
